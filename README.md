@@ -3,6 +3,8 @@ This is the replication package that accompanies the paper
 **Automatically Classifying Kano Model Factors in App Reviews** by
 *Michelle Binder, Annika Vogt, Adrian Bajraktari, and Andreas Vogelsang*
 
+https://link.springer.com/chapter/10.1007/978-3-031-29786-1_17
+
 The package contains the following folders
 
 - **code**: This folder contains Jupyter notebooks for all tested classifiers and the necessary preprocessing
